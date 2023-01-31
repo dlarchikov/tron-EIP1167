@@ -24,5 +24,5 @@ mstore(add(ptr, 0x24), 0x5af43d82803e903d91602b57fd5bf341)
 ```
 ![image](https://user-images.githubusercontent.com/3336114/215693738-412257fd-88bb-472d-8b63-665d839dfd8c.png)
 
-## Deployed contrat for test
+## Deployed contract for test
 https://shasta.tronscan.org/#/contract/TVw6SLeL4tbZQEpL8qzF5NJsBmMMKtuJFR/code
